@@ -252,6 +252,7 @@ header{
 }
 
 footer{
+    width: 1440px;
     height: 306px;
     margin: 0 auto;
     background-color:#32428B;
@@ -268,7 +269,6 @@ footer a{
 }
 
 .footer{
-    width: 1440px;
     display: flex;
     justify-content: space-between;
     padding-top: 40px;
