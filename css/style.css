@@ -244,10 +244,10 @@ header{
 }
 
 .partners{
-    width: 1300px;
-    margin: 85px 140px 260px 80px;
+    width: 1160px;
+    margin: 85px 140px 260px 140px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
