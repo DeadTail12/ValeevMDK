@@ -269,6 +269,7 @@ footer a{
     display: block;
     list-style-type: none;
     line-height: 3em;
+    padding-left: 0px;
 }
 
 .footer{
